@@ -372,27 +372,6 @@ batch_size: 8  # Instead of 16
 - [ ] Model versioning and A/B testing framework
 - [ ] Advanced caching for frequently summarized content
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m 'Add feature'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-**Author:** Subhasis Bhuyan  
-**Email:** subhasisbhuyan2004@gmail.com  
-**GitHub:** [github.com/based-afk](https://github.com/based-afk)  
-**LinkedIn:** [linkedin.com/in/subhasis-bhuyan](https://linkedin.com/in/subhasis-bhuyan)
-
 ## Acknowledgments
 
 - BART model from [Hugging Face Transformers](https://huggingface.co/)
